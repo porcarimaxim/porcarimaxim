@@ -47,6 +47,6 @@ Here are some ideas to get you started:
 - 🌱 I’m learning about AI and its applications to enhance my projects
 - 👯 I’m looking to collaborate on innovative SaaS solutions that aim to solve real-world problems.
 - 💬 Ask me about JavaScript, Node.js, or DevOps — I'm always excited to share knowledge and learn from others!
-- 📫 How to reach me: You can contact me via porcarimaxim@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/porcari-maxim-713214a2/).
+- 📫 How to reach me: You can contact me via [email](mailto:porcarimaxim@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/porcari-maxim-713214a2/).
 - ⚡ Fun fact: In a previous programming life, I used my skills to make the carpets fly! 🚀
 
