@@ -21,6 +21,7 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000?logo=next.js)
 
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
+![React Native](https://img.shields.io/badge/React_Native-000?logo=react)
 ![Apollo Client](https://img.shields.io/badge/Apollo_Client-000?logo=apollographql)
 ![Redux](https://img.shields.io/badge/Redux-000?logo=redux)
 ![Material UI](https://img.shields.io/badge/MUI-000?logo=mui)
@@ -30,6 +31,8 @@
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
+![GitLab](https://img.shields.io/badge/GitLab-000?logo=gitlab)
+
 
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-000?logo=rabbitmq)
